@@ -1,0 +1,4 @@
+flask
+casparser
+gunicorn
+flask-cors
